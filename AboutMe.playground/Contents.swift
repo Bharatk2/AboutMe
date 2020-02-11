@@ -22,3 +22,6 @@
 
 import UIKit
 
+var myName = "Bharat Kumar"
+var homeTown = "San Diego"
+
